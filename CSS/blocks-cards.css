@@ -1,0 +1,30 @@
+.advantage-cards {
+    width: 100%;
+}
+
+.blocks {
+    width: 1440px;
+    margin: 0 auto;
+}
+
+.card {
+    display: inline-block;
+    width: 450px;
+    padding: 10px;
+}
+
+.card__title {
+    padding-bottom: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 28px;
+    line-height: 32.81px;
+    color: #22356F;
+}
+
+.card__paragraph {
+    color: #22356F;
+    opacity: 0.5;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+

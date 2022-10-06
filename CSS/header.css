@@ -1,0 +1,103 @@
+.hat {
+    width: 100%;
+}
+
+.header-main {
+    width: 1440px;
+    margin: 0px auto;
+    background-color: #F4F9E2;
+}
+
+.header-head {
+    padding-left: 100px;
+}
+
+.hat__logo {
+    display: inline-block;
+    font-family: 'Roboto', sans-serif;
+    color: #62D0DF;
+    font-size: 24px;
+    line-height: 26.72px;
+}
+
+.navigation {
+    display: inline-block;
+    margin-left: 450px;
+}
+
+.navigation__name {
+    padding-right: 10px;
+    font-family: 'Roboto', sans-serif;
+    color: #22356F;
+}
+
+.contact-us {
+    float: right;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    color: white;
+    background-color: #62D0DF;
+    padding: 5px 30px;
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-right: 10px;
+    position: relative;
+    z-index: 100;
+}
+
+.left-part {
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 100px;
+    padding-bottom: 75px;
+}
+
+.left-part__title {
+    font-family: 'Roboto', sans-serif;
+    color: #22356F;
+    font-size: 48px;
+    line-height: 53.44px;
+}
+
+.left-part__text {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    color: #22356F;
+    line-height: 42.19px;
+    font-size: 24px;
+}
+
+.btn__who-i-am {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 23.44px;
+    font-weight: 500;
+    color: white;
+    border: 0px;
+    background-color: #F9B640;
+    padding: 10px 30px;
+    margin-right: 38px;
+}
+
+.btn__what-do-i-do {
+    color: #FAB63E;
+    background-color: #F4F9E2;
+    border: none;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 23.44px;
+}
+
+.right-part {
+    display: inline-block;
+    margin-left: 303px;
+}
+
+.right-part__image {
+    height: 600px;
+    margin-right: 0px;
+    position: absolute;
+    top: 0;
+    z-index: 1;
+}
