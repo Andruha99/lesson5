@@ -1,0 +1,79 @@
+.why-thrive {
+    margin: 0 auto;
+    width: 1440px;
+    height: 607px;
+    background: #62D0DF;
+}
+.why-thrive .why-thrive-right {
+    margin-top: 0px;
+    margin-left:178px;
+    display: inline-block;
+}
+.why-thrive .why-thrive-right .why-thrive-right__title {
+    margin-top: 151px;
+    width: 223px;
+    height: 51px;
+    font-family: 'Roboto';
+    font-size: 36px;
+    line-height: 51px;
+    letter-spacing: -0.006em;
+    color: #FFFFFF;
+}
+.why-thrive .why-thrive-right .why-thrive-right__improve {
+    margin-top: 75px;
+    width: 555px;
+    height: 235px;
+    font-family: 'Roboto';
+    font-size: 24px;
+    line-height: 35px;
+    color: #FFFFFF;
+}
+
+.why-thrive .why-thrive-left {
+    float: right;
+}
+
+.about-us{
+    height: 478px;
+    width: 1440px;
+    margin: 0 auto;
+}
+.about-us-left {
+    display: inline-block;
+    margin-left: 106px;
+    margin-top: 150px;
+    width: 93px;
+    height: 210px;
+    font-family: 'Roboto';
+    font-size: 16px;
+    line-height: 23px;
+    letter-spacing: 0.06em;
+    color: #22356F;
+}
+.about-us-right{
+    position: absolute;
+    display: inline-block;
+    width: 592px;
+    margin-left: 225px;
+    margin-top: 150px;
+}
+.about-us-right__help{
+    width: 592px;
+    height: 210px;
+    font-family: 'Roboto';
+    font-size: 24px;
+    line-height: 34px;
+    letter-spacing: 0.005em;
+    color: #22356F;
+}
+.about-us-right__can{
+    margin-top: 76px;
+    width: 201px;
+    height: 21px;
+    font-family: 'Roboto';
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    letter-spacing: 0.06em;
+    color: rgba(34, 53, 111, 0.5);
+}
