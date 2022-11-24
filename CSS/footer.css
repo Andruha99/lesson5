@@ -1,6 +1,12 @@
 .footer{
-    color:wheat;
+    color: #FFFFFF;;
+    margin-top: 1445px;
 }
-.container_footer{
-    background: green;
+.container-footer__text{
+    background:#62D0DF;
+    padding:32px 898px 26px 194px;
+    font-family: 'Larsseit';
+font-size: 14px;
+line-height: 11px;
+letter-spacing: -0.006em;
 }
